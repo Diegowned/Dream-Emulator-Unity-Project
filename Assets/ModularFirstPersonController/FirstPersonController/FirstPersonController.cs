@@ -199,6 +199,7 @@ public class FirstPersonController : MonoBehaviour
     }
 
     float camRotation;
+    public AudioSource movementSoundEffect;
 
     private void Update()
     {

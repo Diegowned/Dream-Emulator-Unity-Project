@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: e8f96472e758a5a4596c42ec98045144
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bird_Cage
+    second: {fileID: 2800000, guid: 1faeeb0e7c4cc194bbc32ed3fcae7be5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book_Green
+    second: {fileID: 2800000, guid: f10584caf6d53e741b0353cf2c001f84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book_Maroon
+    second: {fileID: 2800000, guid: 463329a700fb2154f84ecf65eec1afb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book_Orange
+    second: {fileID: 2800000, guid: 2f8fa1d5095c7534591e901c13b4a417, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book_Short_Green
+    second: {fileID: 2800000, guid: 315ddd850a3f91f4eaf98afe238b868b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book_Short_Maroon
+    second: {fileID: 2800000, guid: b2493695d5d79704fa26d0d4ed8cb84f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book_Short_Pink
+    second: {fileID: 2800000, guid: dd54f2645b1a4034ea0be6715642ffed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book_Thin_Maroon
+    second: {fileID: 2800000, guid: 655ade82369038348b053f16d49e9378, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book_Thin_Orange
+    second: {fileID: 2800000, guid: 3c381a7e172ed334fabd1fddbeae1c9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book_Thin_Short_Green
+    second: {fileID: 2800000, guid: 76711ba5254c6ad4aae4929f204c52b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book_Thin_Short_Orange
+    second: {fileID: 2800000, guid: 9dc14500b2de0b84bb7d1ffc54d1973b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book_Thin_Short_Pink
+    second: {fileID: 2800000, guid: 32d78f1bdf1a2894b85bbad5439c8453, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Carrot_Slice
+    second: {fileID: 2800000, guid: a0889c2af4548514f92739e6159819c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cucumber_Slice
+    second: {fileID: 2800000, guid: be584faac65835c47a5ba25c9c1dcb25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Desk_1
+    second: {fileID: 2800000, guid: 6e117c53748a28f47a27a56e4831dea0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FC_Furnace
+    second: {fileID: 2800000, guid: 487ac704fc3f6c14080112ab53fdb845, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: F_Pale
+    second: {fileID: 2800000, guid: a854a508b9c074540be36d01fc683cbe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: F_Pan
+    second: {fileID: 2800000, guid: 52d27a28748fee943a8f10e688138351, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: F_Sauce_Pan_1
+    second: {fileID: 2800000, guid: 2280a8ae7002a644b9bba9e6169b1aa9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: F_Sauce_Pan_2
+    second: {fileID: 2800000, guid: 849221db17a0d3f4c8c89c7c6a7cbe29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lettuce
+    second: {fileID: 2800000, guid: 2f74ffd591569484583ef3410d310361, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rug_Rectangle
+    second: {fileID: 2800000, guid: cd89b7ddcde3e3447b15fd93905efba2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rug_Round
+    second: {fileID: 2800000, guid: 2e3a763f1d3a0574bbcf0f86cf082a3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Salad_Bowl
+    second: {fileID: 2800000, guid: c55d9da9ec2400044874ae8d9f76acb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Small_Frame
+    second: {fileID: 2800000, guid: 9ec25b410259c394aa8abfd3758c34e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Small_Table
+    second: {fileID: 2800000, guid: 9ca637183cf5de94aa1d4bf39b634596, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Spinach
+    second: {fileID: 2800000, guid: 526ac79955b4c754cbd67cb47e478b2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bed
+    second: {fileID: 2800000, guid: 13c156c6b2cf8f246919f7a073626907, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ceiling_detail
+    second: {fileID: 2800000, guid: c88d21bef5f92b64d9c00480bf8c3287, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ceiling_floor
+    second: {fileID: 2800000, guid: 7fc98d5b97a21c542b8d4c6215eeeabd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chest
+    second: {fileID: 2800000, guid: d9ff6d3fff28db440b16f4dd59bda02e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: desk_2
+    second: {fileID: 2800000, guid: d20724f2747be704891072192911f5d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: detail
+    second: {fileID: 2800000, guid: d2063a056d19896449148036a16ee636, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f_firewood
+    second: {fileID: 2800000, guid: ee7430a2295662745bd2c8b9370c9f29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: garlic_string_1
+    second: {fileID: 2800000, guid: 6fcaff4f9d2940f49866f150fa0a1d9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: garlic_string_2
+    second: {fileID: 2800000, guid: b28ccdaaf8cf57b4ea46730f28b79b7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hanging_cauldron
+    second: {fileID: 2800000, guid: 1c89dfc40aedf38429416d73b2824107, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: masonry
+    second: {fileID: 2800000, guid: 0173e85b87121ec4d838a11b4d44f8f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pan_1
+    second: {fileID: 2800000, guid: 491d5eed0e4b5614e879843605b0f93f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pan_2
+    second: {fileID: 2800000, guid: da0bab61da6e3554a91e22c58776f1a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pan_rack
+    second: {fileID: 2800000, guid: ff03c4f4a9a4b78488873bdcf1731fb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pet_bed
+    second: {fileID: 2800000, guid: 18be7c33528c8304d87ce3642c62deae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pillow_1
+    second: {fileID: 2800000, guid: 45c50887dae697649bd866be39366bc1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pillow_2
+    second: {fileID: 2800000, guid: 366e826d438ba344e846c1997d787b33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pitcher
+    second: {fileID: 2800000, guid: b9009b3d478f6094aa31a62b48987d04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sauce_pan_1
+    second: {fileID: 2800000, guid: 57acad53d4cc84d43aaa6fbde10d1a78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sauce_pan_2
+    second: {fileID: 2800000, guid: 86f5b02b77c4b5d4bb37b78c84d47906, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sofa_1
+    second: {fileID: 2800000, guid: d77ebebf49d49e0419f1f599a7e33762, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sofa_2
+    second: {fileID: 2800000, guid: 9f0d98057408df947a6c8f19a75f5dd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: standing_lamp
+    second: {fileID: 2800000, guid: 280209f4df3f39e408212f9ab8efb845, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: table
+    second: {fileID: 2800000, guid: 5cf94d228f426e6489dcc2775a3c793e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: table_1
+    second: {fileID: 2800000, guid: 979415ea004d92840b4627ec4a99aa7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: table_bench
+    second: {fileID: 2800000, guid: 563b85b5da3a04549bbdfc7d535ef129, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: walls_1
+    second: {fileID: 2800000, guid: b2898da9b98a72c4e9a1928843dcdb6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: walls_2
+    second: {fileID: 2800000, guid: c9d3cf5ad56d3204facaf02b6a0ebdbe, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
